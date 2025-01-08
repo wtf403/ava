@@ -1,0 +1,5 @@
+tweepy
+python-dotenv
+requests
+telethon
+PyInstaller

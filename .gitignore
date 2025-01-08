@@ -1,0 +1,6 @@
+*/*.session
+*/*.spec
+build/
+venv/
+env/
+*/.env
